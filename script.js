@@ -18,7 +18,7 @@ const ballon = {
         y:0
     },
     speed : {                   // Vitesse du ballon
-        x:10,
+        x:0,
         y:10
     },
     ballRadius : 20,            // rayon du ballon
